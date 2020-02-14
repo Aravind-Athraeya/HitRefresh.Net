@@ -1,10 +1,10 @@
-//difference betweeen .aspx and .ascx
-//MV controler Overview. Know about index - https://docs.microsoft.com/en-us/aspnet/mvc/overview/older-versions-1/controllers-and-routing/aspnet-mvc-controllers-overview-cs
-// route table & RedirectToAction vs RedirectToRoute  difference
+// Difference betweeen .aspx and .ascx
+// MV controler Overview. Know about index - https://docs.microsoft.com/en-us/aspnet/mvc/overview/older-versions-1/controllers-and-routing/aspnet-mvc-controllers-overview-cs
+// Route table & RedirectToAction vs RedirectToRoute  difference
 // Partial view - https://www.c-sharpcorner.com/UploadFile/ff2f08/partial-view-in-mvc/
 // Top 31 MC questios - https://www.guru99.com/mvc-interview-questions.html
 // Routing Constraint in MVC - https://www.c-sharpcorner.com/UploadFile/dacca2/route-constraints-in-mvc/
-
+// Index and Contact in Controller 
 
 
 
