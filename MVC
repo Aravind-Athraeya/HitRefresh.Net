@@ -5,7 +5,7 @@
 // Top 31 MC questios - https://www.guru99.com/mvc-interview-questions.html
 // Routing Constraint in MVC - https://www.c-sharpcorner.com/UploadFile/dacca2/route-constraints-in-mvc/
 // Index and Contact in Controller 
-
+  When we create a controller class, it inherits the System.Web.Mvc.Controller class and gives us a public method named "Index"
 
 
 
