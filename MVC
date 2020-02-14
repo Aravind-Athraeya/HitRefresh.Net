@@ -3,3 +3,26 @@
 // route table & RedirectToAction vs RedirectToRoute  difference
 // Partial view - https://www.c-sharpcorner.com/UploadFile/ff2f08/partial-view-in-mvc/
 // Top 31 MC questios - https://www.guru99.com/mvc-interview-questions.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// Sample - All MVC project - Global asax file. Registry of routes and filters. induvidual routes and filter files in App_start
