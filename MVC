@@ -8,6 +8,7 @@
   When we create a controller class, it inherits the System.Web.Mvc.Controller class and gives us a public method named "Index"
 // https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/introduction/adding-a-view
 //https://rachelappel.com/2013/04/02/asp-net-mvc-actionresults-explained/
+//c-sharpcorner.com/UploadFile/puranindia/ASP-NET-MVC-Interview-Questions/
 
 
 
