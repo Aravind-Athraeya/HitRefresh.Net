@@ -8,3 +8,5 @@ EDM has three models : CMS
 Till now:  http://a4academics.com/interview-questions/52-dot-net-interview-questions/973-entity-framework?showall=&start=2
 MVC + entity framework project - https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/getting-started-with-ef-using-mvc/creating-an-entity-framework-data-model-for-an-asp-net-mvc-application
 Loading types - Lazy, Eager and Explicit
+entity set and entity difference - In Entity Framework terminology, an entity set typically corresponds to a database table, and an entity corresponds to a row in the table.
+Note
