@@ -14,3 +14,4 @@ Entire EF project walkthough - https://www.codeproject.com/Articles/739164/Entit
 How to delete an object in entity set? Usual steps,+ Attaching an object in the entityset before deletion
 How to use Stored Procedures in Entity Framework?
 Video link - DB first approach -https://docs.microsoft.com/en-us/ef/ef6/modeling/designer/workflows/database-first
+entity framework edmx vs code first -- EDMX is only for db first
