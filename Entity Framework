@@ -11,3 +11,4 @@ MVC + entity framework project - https://docs.microsoft.com/en-us/aspnet/mvc/ove
 Loading types - Lazy, Eager and Explicit
 entity set and entity difference - In Entity Framework terminology, an entity set typically corresponds to a database table, and an entity corresponds to a row in the table.
 Entire EF project walkthough - https://www.codeproject.com/Articles/739164/Entity-Framework-Tutorial-for-Beginners
+How to delete an object in entity set? Usual steps,+ Attaching an object in the entityset before deletion
