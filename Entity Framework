@@ -17,3 +17,4 @@ Video link - DB first approach -https://docs.microsoft.com/en-us/ef/ef6/modeling
 entity framework edmx vs code first -- EDMX is only for db first
 POCO entities VS Dynamic Proxy -https://www.tutorialspoint.com/entity_framework/entity_framework_types.htm-- Will circle back on this
 Entity Lifecycle
+Why collections are virtual in dbcontext? BEcause to facilitate lazy loading -Navigation property should be defined as public, virtual. Context will NOT do lazy loading if the property is not defined as virtual.
