@@ -1,3 +1,4 @@
 CURD
 Atomicity
  isolation level for the transaction
+clustered and non clustered index
