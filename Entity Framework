@@ -21,3 +21,4 @@ Why collections are virtual in dbcontext? BEcause to facilitate lazy loading
 1-Navigation property should be defined as public, virtual. Context will NOT do lazy loading if the property is not defined as virtual.
 2- When using POCO entity types, lazy loading is achieved by creating instances of derived proxy types and then overriding virtual properties to add the loading hook.
 Change tracking - To track any entity by the context, it must have the primary key property.
+Seed database - create test data, takes context as input.
