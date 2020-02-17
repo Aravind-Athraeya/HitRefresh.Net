@@ -1,2 +1,3 @@
 CURD
 Atomicity
+ isolation level for the transaction
