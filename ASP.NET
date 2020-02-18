@@ -1,13 +1,6 @@
 //ASP.NET forms authentication
 //viewstate
-//page life cycle -- Code? https://docs.microsoft.com/en-us/previous-versions/aspnet/ms178472(v=vs.100)?redirectedfrom=MSDN
+//Page life cycle
+// ASP.Net Application life cycle
 Request - Cache or parse
-// RSI LPR U? 
-Start - Request and reponse of page & ispostback
-Initialization - each control's UniqueID property is set.
-Load - postback information recovered from view state and control state.
-Postback event handling -  Validate method of all validator controls is called
-Rendering -  render controls
-Unload - Response and Request are unloaded and cleanup is performed.
-// ASP VS ASP.net
 use of AutoEventWireup? - 
