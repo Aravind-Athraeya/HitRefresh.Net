@@ -5,6 +5,18 @@ P II LL
 PLL
 P 
 PSU
+PreInit -checks IsPostBack |  sets the themes and master pages, creates dynamic controls, and gets and sets profile property values.
+Init - initializes the control property and the control tree is built.
+InitComplete - allows tracking of view state.
+LoadViewState - loading view state information into the controls.
+LoadPostData - D contents of all the input fields are defined with the <form> tag are processed.
+PreLoad -  before the post back data is loaded in the controls.
+Load - The Load event is raised for the page first and then recursively for all child controls.
+LoadComplete - The loading process is completed, control event handlers are run, and page validation takes place.
+PreRender - pages and controls can perform any updates before the output is rendered.
+PreRenderComplete - recursively fired for all child controls
+SaveStateComplete - State of control on the page is saved. Personalization, control state and view state information is saved. The HTML markup is generated. 
+UnLoad - UnLoad event for all controls recursively and lastly for the page itself. Final cleanup is done and all resources and references, such as database connections, are freed. 
 Request - Cache or parse
 use of AutoEventWireup? - 
 Page directives and event handlers?
