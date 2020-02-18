@@ -10,3 +10,4 @@ Postback event handling -  Validate method of all validator controls is called
 Rendering -  render controls
 Unload - Response and Request are unloaded and cleanup is performed.
 // ASP VS ASP.net
+use of AutoEventWireup? - 
