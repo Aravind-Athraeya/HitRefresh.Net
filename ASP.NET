@@ -1,7 +1,6 @@
 ASP.NET forms authentication
 viewstate
-ASP.Net Page life cycle
-ASP.Net Application life cycle
+ASP.Net Page life cycle & ASP.Net Application life cycle- https://www.tutorialspoint.com/asp.net/asp.net_life_cycle.htm
 Request - Cache or parse
 use of AutoEventWireup? - 
 Page directives and event handlers?
