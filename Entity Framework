@@ -16,7 +16,7 @@ How to use Stored Procedures in Entity Framework?
 Video link - DB first approach -https://docs.microsoft.com/en-us/ef/ef6/modeling/designer/workflows/database-first
 entity framework edmx vs code first -- EDMX is only for db first
 POCO entities VS Dynamic Proxy -https://www.tutorialspoint.com/entity_framework/entity_framework_types.htm-- Will circle back on this
-POCO supports - Persistence ignorance. No idea of db design behaves like plain old CLR object
+POCO supports - Persistence ignorance. No idea of db design behaves like plain old CLR object /https://stackoverflow.com/questions/2672409/what-is-entity-framework-with-poco
 Entity Lifecycle
 Why collections are virtual in dbcontext? BEcause to facilitate lazy loading 
 1-Navigation property should be defined as public, virtual. Context will NOT do lazy loading if the property is not defined as virtual.
