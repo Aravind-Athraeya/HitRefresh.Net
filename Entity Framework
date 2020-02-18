@@ -24,3 +24,4 @@ Why collections are virtual in dbcontext? BEcause to facilitate lazy loading
 Change tracking - To track any entity by the context, it must have the primary key property.
 Seed database - create test data, takes context as input.
 https://docs.microsoft.com/en-us/ef/ef6/modeling/code-first/workflows/new-database -- Code first video
+https://www.dotnettricks.com/learn/entityframework/entity-framework-interview-questions
