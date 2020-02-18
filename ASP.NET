@@ -5,3 +5,4 @@ ASP.Net Application life cycle
 Request - Cache or parse
 use of AutoEventWireup? - 
 Page directives and event handlers?
+state management - client side and server side
