@@ -26,3 +26,4 @@ https://stackoverflow.com/questions/6778870/difference-between-response-redirect
 steps for registering the custom server control? -- Use Register Directive
 inline VS declarative data binding
 custom control VS user control -is - dll reference  VS .ascx control
+machine.config VS web.config
