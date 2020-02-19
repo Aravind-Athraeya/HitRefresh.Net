@@ -2,3 +2,4 @@ asmx ?
 SOAP VS REST
 threading
 What is the difference between SVC and Asmx?
+Wcf ad hosted in IIS, a Windows Service, a Winforms application, a console app 
