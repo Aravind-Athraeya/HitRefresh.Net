@@ -23,4 +23,4 @@ Page directives and event handlers?
 state management - client side and server side
 https://www.c-sharpcorner.com/uploadfile/2f73dd/what-is-postback-in-Asp-Net/
 https://stackoverflow.com/questions/6778870/difference-between-response-redirect-and-server-transfer
-steps for registering the custom server control?
+steps for registering the custom server control? -- Use Register Directive
