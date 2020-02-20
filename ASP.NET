@@ -25,7 +25,7 @@ https://www.c-sharpcorner.com/uploadfile/2f73dd/what-is-postback-in-Asp-Net/
 https://stackoverflow.com/questions/6778870/difference-between-response-redirect-and-server-transfer
 steps for registering the custom server control? -- Use Register Directive
 inline VS declarative data binding
-custom control VS user control -is - dll reference  VS .ascx control
+custom control VS user control vs web controls  -is - dll reference  VS .ascx control
 machine.config VS web.config
 https://stackify.com/asp-net-interview-questions/
 https://www.guru99.com/asp-net-interview-questions-answers.html
