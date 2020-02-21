@@ -8,4 +8,5 @@ Binding - One way VS Two way
 control template VS data template
 Window.Resources> Static Vs duynamic?
 Application of styles in 4 levels - Application/ window/ control/ layout
-Triggers in WPF
+Triggers in WPF - 3 types
+User control VS custom control
