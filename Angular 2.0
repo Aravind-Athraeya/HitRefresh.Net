@@ -6,7 +6,7 @@ AngularJS modules define applications
 AngularJS controllers control applications
 AngularJS Expressions vs. JavaScript Expressions - Filter, conditions loop and exceptions. HTML inside scirpts in Ang
 The [] parameter in the module definition can be used to define dependent modules.Without the [] parameter, you are not creating a new module, but retrieving an existing one.
-
+recommended that you load the AngularJS library either in the <head> or at the start of the <body>.This is because calls to angular.module can only be compiled after the library has been loaded.
 
 Anglar Sunday:
 https://www.guru99.com/angular-js-interview-questions.html
