@@ -4,7 +4,9 @@ directives: ng-bind[data to html], ng-model[input to backend data model],ng-app,
 {{ expression }}
 AngularJS modules define applications
 AngularJS controllers control applications
-AngularJS Expressions vs. JavaScript Expressions
+AngularJS Expressions vs. JavaScript Expressions - Filter, conditions loop and exceptions. HTML inside scirpts in Ang
+The [] parameter in the module definition can be used to define dependent modules.Without the [] parameter, you are not creating a new module, but retrieving an existing one.
+
 
 Anglar Sunday:
 https://www.guru99.com/angular-js-interview-questions.html
