@@ -4,7 +4,7 @@ directives: ng-bind[data to html], ng-model[input to backend data model],ng-app,
 {{ expression }}
 AngularJS modules define applications
 AngularJS controllers control applications
-
+AngularJS Expressions vs. JavaScript Expressions
 
 Anglar Sunday:
 https://www.guru99.com/angular-js-interview-questions.html
