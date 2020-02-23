@@ -1,6 +1,6 @@
 AngularJS extends HTML attributes with Directives, and binds data to HTML with Expressions
 expressions bind AngularJS data to HTML the same way as the ng-bind directive.
-directives: ng-bind[data to html], ng-model[input to backend data model],ng-app,ng-init,ng-controller,ng-repeat, ng-show[bool] ,ng-invalid[in css],ng-click- HTML attributes with ng
+directives: ng-bind[data to html], ng-model[input to backend data model],ng-app,ng-init,ng-controller,ng-repeat, ng-show[bool], ng-if ,ng-invalid[in css],ng-click- HTML attributes with ng
 {{ expression }} or {{fullName()}} -- ng-bind and expressrion are ways to display data in html while ng-model is user input to app data
 AngularJS modules define applications
 AngularJS controllers control applications
