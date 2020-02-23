@@ -10,7 +10,7 @@ recommended that you load the AngularJS library either in the <head> or at the s
 When naming a directive, you must use a camel case name, w3TestDirective, but when invoking it, you must use - separated name, w3-test-directive:
 Diretive retrictions: Class, comment, Element , attribute -- default the value is EA
  $scope is the application object (the owner of application variables and functions)scope is the binding part between the HTML (view) and the JavaScript (controller
-
+scope vs rootscope - if both same name variable, then take current
 
 Anglar Sunday:
 https://www.guru99.com/angular-js-interview-questions.html
