@@ -11,7 +11,7 @@ When naming a directive, you must use a camel case name, w3TestDirective, but wh
 Diretive retrictions: Class, comment, Element , attribute -- default the value is EA
  $scope is the application object (the owner of application variables and functions)scope is the binding part between the HTML (view) and the JavaScript (controller
 scope vs rootscope - if both same name variable, then take current
-
+ng-options VS ng-repeat - Dropdowns made with ng-options allows the selected value to be an object, while dropdowns made from ng-repeat has to be a string.
 Anglar Sunday:
 https://www.guru99.com/angular-js-interview-questions.html
 https://www.edureka.co/blog/interview-questions/top-angularjs-interview-questions-2016/
