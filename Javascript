@@ -1,1 +1,1 @@
-window.location VS ?
+window.location /window.setInterval
