@@ -22,4 +22,4 @@ https://www.onlineinterviewquestions.com/angular-js-interview-questions/
 https://www.tutorialspoint.com/angularjs/angularjs_interview_questions.htm
 https://www.w3schools.com/angular/
 https://www.tutorialspoint.com/angular7/index.htm
-ng-view and ng-route dependency
+ng-view and ng-route dependency -- Data returned by ngroute will be displayed on ng-view
