@@ -1,3 +1,4 @@
 window.location /window.setInterval
 XMLHttpRequest
 prototypal inheritance
+prototype in javascript
