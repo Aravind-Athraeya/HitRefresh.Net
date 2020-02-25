@@ -26,7 +26,7 @@ ng-view and ng-route dependency -- Data returned by ngroute will be displayed on
 https://www.jvandemo.com/the-nitty-gritty-of-compile-and-link-functions-inside-angularjs-directives/
 https://www.youtube.com/watch?v=SmFjEyd1iNU
 https://www.sitepoint.com/understanding-angulars-apply-digest/
-
+[https://stackoverflow.com/questions/15666048/angularjs-service-vs-provider-vs-factory]
 Factory VS Provider VS Const VS value VS service -- all providers
 factory= fn()
 service = new fn()
