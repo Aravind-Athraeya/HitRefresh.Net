@@ -31,3 +31,6 @@ Factory VS Provider VS Const VS value VS service -- all providers
 factory= fn()
 service = new fn()
 provider = (new fn()).$get()
+Common ways of communication between modules-
+events/ services /By assigning models on $rootScope / Directly between controllers using ControllerAs and other forms of inheritance
+/Directly between controllers using $parent, $$childHead, $$nextSibling
