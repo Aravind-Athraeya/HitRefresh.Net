@@ -10,3 +10,4 @@ https://www.talkingdotnet.com/asp-net-core-interview-questions/
 Middleware = Http module + Http handler
 kestral VS web listener
 host VS server in .net core. Kestral is a server and webhostbuilder is a host. Host needs a server
+https://www.tutorialsteacher.com/core/aspnet-core-middleware
