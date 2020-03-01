@@ -8,3 +8,4 @@ appsettings.json instead of web.config
 Most important:
 https://www.talkingdotnet.com/asp-net-core-interview-questions/
 Middleware = Http module + Http handler
+kestral VS web listener
