@@ -7,3 +7,4 @@ https://www.c-sharpcorner.com/interview-questions-by-technology/dotnetcore
 appsettings.json instead of web.config
 Most important:
 https://www.talkingdotnet.com/asp-net-core-interview-questions/
+Middleware = Http module + Http handler
