@@ -10,7 +10,7 @@ Lambda/ Anon functions
 Multi-threading
 Operator overloading
 https://www.tutorialspoint.com/csharp/csharp_operator_overloading.htm
-ref, out and value
+ref, out and value . And imp * Param Arrays*
 dynamic vs object c#
 nullable coalesce [??] operator
 decalre nullable double -   double? num3 = new double?();
