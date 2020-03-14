@@ -15,3 +15,4 @@ dynamic vs object c#
 nullable coalesce [??] operator
 decalre nullable double -   double? num3 = new double?();
 for(;;) - >Infinite loop
+datatype[] arrayName; -> Array declaration
