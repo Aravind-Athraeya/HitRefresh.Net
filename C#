@@ -12,3 +12,6 @@ Operator overloading
 https://www.tutorialspoint.com/csharp/csharp_operator_overloading.htm
 ref, out and value
 dynamic vs object c#
+nullable coalesce [??] operator
+decalre nullable double -   double? num3 = new double?();
+for(;;) - >Infinite loop
