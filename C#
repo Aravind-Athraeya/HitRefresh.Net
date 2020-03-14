@@ -18,5 +18,5 @@ for(;;) - >Infinite loop
 datatype[] arrayName; -> Array declaration -- int [ , , ] m; #D array /* an array with 5 rows and 2 columns*/
 int[,] a = new int[5, 2] {{0,0}, {1,2}, {2,4}, {3,6}, {4,8} };
 C# implemetns  - Array.Reverse & Array.Sort
-Field VS property
+Field VS property - interfaces can have properties but not fields. Property does not need to implemetn fileds
 Class VS structure
