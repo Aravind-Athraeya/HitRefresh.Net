@@ -1,0 +1,99 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApplication6
+{
+    class Program
+    {
+        public class Base
+        {
+            public Base()
+            {
+
+            }
+            public void Function1()
+            {
+                Console.WriteLine("Base....");
+            }
+
+            public virtual void Function2() /// With Virtual
+            {
+                Console.WriteLine("Base Virtual....");
+            }
+            public virtual void Function3()/// With Virtual
+            {
+                Console.WriteLine("Base  Function3 Virtual....");
+            }
+
+            //public  void Function4()/// Without Virtual
+            //{
+            //    Console.WriteLine("Base  without Virtual....");
+            //}
+
+
+            public virtual void Function5()/// with virtual
+            {
+                Console.WriteLine("Base  For New testing Virtual....");
+            }
+        }
+
+        public class Derived : Base
+        {
+            public Derived()
+            {
+
+            }
+            public void Function1()
+            {
+                Console.WriteLine("Derived....");
+            }
+
+            public override void Function2() // With override
+            {
+                Console.WriteLine("derived override....");
+            }
+
+            public void Function3() // Without override
+            {
+                Console.WriteLine("derived without override....");
+            }
+
+            //public override void Function4() // With override
+            //{
+            //    Console.WriteLine("derived with again override....");
+            //}
+
+            new public void Function5() // 
+            {
+                Console.WriteLine("derived with new ...");
+            }
+        }  
+
+        static void Main(string[] args)
+        {
+            Base b = new Base();
+            b.Function1(); // Base
+            Derived d = new Derived();
+            d.Function1(); // derived
+            Base bd = new Derived();
+            bd.Function1(); //Calls Base
+
+            Base bdd = new Derived();
+            bdd.Function2(); //Calls Derived
+
+            Base bddd = new Derived();
+            bddd.Function3(); //Calls Base again
+
+
+            //Base bdddd = new Derived();
+            //bdddd.Function4(); //Error - Cant override without abstract or virtual
+
+            Base bfddd = new Derived();
+            bfddd.Function5(); //Calls Base - Hides derived
+
+        }
+    }
+}
