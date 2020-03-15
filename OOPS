@@ -1,4 +1,5 @@
 abstract, virtual,new , override,static  or protected
+--https://www.c-sharpcorner.com/article/understanding-method-overriding-and-virtual-override-and-new-keywords-in-c-sharp/
 interface vs abstract class c#
 partial classes & Methods
 read only  VS const
