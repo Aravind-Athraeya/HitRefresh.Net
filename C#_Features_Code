@@ -1,5 +1,33 @@
 // Delegates
+-------------------------------------------------------------------------------------------------------------------------
+-- 1) Declare Delegates
+Public delegate int NumberChanger(int n);
+
+-- 2) Create Delegates Instances
+NumberChanger nc1 = new NumberChanger(AddNum); //AddNum(int p) function implmented assume
+
+-- 3) Calling the methods using the delegate objects
+  nc1(25); //Single Case
+  nc += nc2; // Multicast
+--------------------------------------------------------------------------------------------------------------------------
+
+
+
 // Events
 // Generics
-// Anon Functions
+// Anon Functions -- Methods without names
+-------------------------------------------------------------------------------------------------------------------------
+ 
+    --1)  Create a delegate 
+    public delegate void petanim(string pet); 
+     --2) Anonymous method with one parameter 
+       petanim p = delegate(string mypet) 
+        { 
+            Console.WriteLine("My favorite pet is {0}.", 
+                                                 mypet); 
+        }; 
+        p("Dog"); 
+    
+    
+--------------------------------------------------------------------------------------------------------------------------    
 // Lambda functions
