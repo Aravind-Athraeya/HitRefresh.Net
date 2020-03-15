@@ -10,11 +10,33 @@ NumberChanger nc1 = new NumberChanger(AddNum); //AddNum(int p) function implment
   nc1(25); //Single Case
   nc += nc2; // Multicast
 --------------------------------------------------------------------------------------------------------------------------
-
-
-
 // Events
+-- 1) Declare Delegates
+public delegate string MyDel(string str);
+-- 2) Declare Events
+ event MyDel MyEvent;
+-- 3) Link Event - Delegate
+ this.MyEvent += new MyDel(this.WelcomeUser); //WelcomeUser implemented
+-- 4) Call an event from the Instance 
+  string result = obj1.MyEvent("Tutorials Point");
+--------------------------------------------------------------------------------------------------------------------------
 // Generics
+    1)  Generic Class
+    public class MyGenericArray<T> {
+      private T[] array;
+      }
+
+    2)  Generic Methods    
+    static void Swap<T>(ref T lhs, ref T rhs) {
+      }
+
+    3) Calling Swap in Step 2
+    Swap<int>(ref a, ref b); Swap<char>(ref c, ref d);
+    
+    4) Call the Generic class in Step 1
+         MyGenericArray<int> intArray = new MyGenericArray<int>(5);
+      
+--------------------------------------------------------------------------------------------------------------------------
 // Anon Functions -- Methods without names
 -------------------------------------------------------------------------------------------------------------------------
  
