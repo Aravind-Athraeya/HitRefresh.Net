@@ -2,3 +2,11 @@ window.location /window.setInterval
 XMLHttpRequest
 prototypal inheritance
 prototype in javascript
+JS types combos:
+
+Number + Number -> Addition
+Boolean + Number -> Addition
+Boolean + Number -> Addition
+Number + String -> Concatenation
+String + Boolean -> Concatenation
+String + String -> Concatenation
