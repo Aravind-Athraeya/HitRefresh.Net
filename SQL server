@@ -5,3 +5,4 @@ clustered and non clustered index
 sub-query 
 sql injection prevention
 IQueryable VS Ienumerable - LINQ related
+difference between isnull and coalesce sql
