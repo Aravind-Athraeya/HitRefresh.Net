@@ -8,3 +8,4 @@ IQueryable VS Ienumerable - LINQ related
 difference between isnull and coalesce sql
 https://www.sqlshack.com/database-table-partitioning-sql-server/
 https://www.sqlshack.com/what-is-database-normalization-in-sql-server/
+Denormalization
