@@ -9,3 +9,8 @@ difference between isnull and coalesce sql
 https://www.sqlshack.com/database-table-partitioning-sql-server/
 https://www.sqlshack.com/what-is-database-normalization-in-sql-server/
 Denormalization
+https://www.guru99.com/database-normalization.html
+#1F - Each table cell should contain a single value./Each record needs to be unique.
+#2F - Single Column Primary Key
+#3NF - Has no transitive functional dependencies
+[A transitive functional dependency is when changing a non-key column, might cause any of the other non-key columns to change]
