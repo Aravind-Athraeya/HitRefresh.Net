@@ -16,3 +16,4 @@ https://www.guru99.com/database-normalization.html
 [A transitive functional dependency is when changing a non-key column, might cause any of the other non-key columns to change]
 fragmentation in sqlserver
 https://www.sqlservercentral.com/blogs/sql-server-index-fragmentation-understanding-fragmentation
+ACID - CURD
