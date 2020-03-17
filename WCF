@@ -4,3 +4,6 @@ threading
 What is the difference between SVC and Asmx? --http://keithelder.net/2008/10/17/wcf-vs-asmx-webservices/
 Wcf ad hosted in IIS, a Windows Service, a Winforms application, a console app 
 https://www.c-sharpcorner.com/article/hosting-wcf-service-on-iis/
+PUT VS POST
+REST VS SOAP
+WCF VS WEBAPI
