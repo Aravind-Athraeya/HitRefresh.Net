@@ -44,86 +44,6 @@ AngularJS can be a demanding technology, prompting a salary scope of anything fr
 
 In every interview, you will have to contend with fierce competition. To perform well and get your dream job, you have to prepare in advance. To help you, we’ve outlined 20 frequently asked AngularJS interview questions and the kind of answers your interviewer is likely looking for. 
 
-Here Are 20 Frequently Asked AngularJS Interview Questions:
-In 30 seconds, define AngularJS.
-AngularJS is an open-source JavaScript framework designed for creating dynamic single web page applications with fewer lines of code.
-Mention some advantages of using the AngularJS framework.
-Some of the key advantages of using AngularJS framework include:
-
-It provides an excellent “desktop-like” experience to the end-user.
-By freeing the developer from having to register callbacks manually or write repetitive low-level DOM manipulation tasks, it saves months of development.
-By separating DOM manipulation from app logic, it makes code modular and easy to test.
-It supports two-way data binding.
-What is the main thing that you would need to change if you were migrating from AngularJS 1.4 to AngularJS 1.5?
-To adapt to the new AngularJS 1.5 components, you would need to change .directive to .component.
-Is AngularJS compatible with all browsers?
-Yes.
-What are the key features of AngularJS?
-Scope
-Controller
-Model
-View
-Services
-Data Binding
-Directives
-Filters
-Testable
-Define scope in AngularJS.
-The scope is a unique JavaScript object that plays the role of joining the controller (JavaScript) with the views (HTML). The controller sets properties on the scope, and the view binds to them.
-Explain the concept of scope hierarchy.
-Each AngularJS application has only one root scope. Child controllers, however, create scope for each view. When the new scopes are created, they are added to their parent root scope as child scopes. This creates a hierarchical structure when they are attached.
-
-Are you a front end developer and looking to enhance your skills? Check out the Angular Training Course.
-What is data binding in AngularJS and What is the difference between one-way and two-way binding?
-Data binding is the automatic attunement of data between the view and model components. AngularJS uses two-way data binding. In one-way binding, the scope variable in the HTML is set to the first value that its model is assigned to.
-
-In two-way binding, the scope variable changes its value every time its model binds to a different value.
-What are directives?
-Directives are unique markers on a DOM element that tell the HTML compiler to attach a specified behavior to the DOM element. Directives start with ng-prefix. Some of the built-in directives include ngClass, ngApp, ngRepeat, ngModel, ngBind and ngInit.
-List the different types of directives.
-There are four types of directives:
-
-Comment directives
-CSS class directives
-Attribute directives
-Element directives
-In what ways can you use a directive?
-You can use a directive as an element, attribute, or class name. To define the way your directive will be used, you need to set the restrict option in the directive declaration. The restrict option can be set to:
-
-‘A’ - Only matches attribute name
-‘C’ - Only matches class name
-‘E’ – Only matches element name
-
-You can combine these restrictions to produce needed results.
-Explain what a digest cycle is in AngularJS.
-During every digest cycle, all new scope model values are compared against the previous values. This is called dirty checking. If change is detected, watches set on the new model are fired, and another digest cycle executes. This goes on until all models are stable.
-
-The digest cycle is triggered automatically, but it can be called manually using “.$apply().”
-What are the common ways of communication between modules of your application, using core AngularJS functionality?
-The common ways of communication include:
-
-Using events
-Using services
-By assigning models on $rootScope
-Directly between controllers using ControllerAs and other forms of inheritance
-Directly between controllers using $parent, $$childHead, $$nextSibling
-Explain what the link function is and how it differs from compile.
-The link function combines the directives with a scope to produce a live view.
-The link function is responsible for instance DOM manipulation and for registering DOM listeners.
-The compile function is responsible for template DOM manipulation as well as the collection of all the directives.
-Explain e2e testing of AngularJS applications.
-End-to-end (e2e) testing involves testing an application from start to finish to determine whether all the components are working correctly. It catches issues within an application related to integration and flow.
-What is dependency injection?
-Dependency injection is the process where the dependent objects are injected rather than being created by the consumer.
-What are the benefits of dependency injection?
-Dependency injection has two significant benefits: Testing and decoupling.
-What is a Single Page Application (SPA)?
-SPA is the concept whereby pages are loaded from the server not by doing postbacks, instead of by creating a single shell page or master page and loading the web pages into the master page.
-How can a SPA be implemented in AngularJS?
-SPA can be implemented with Angular by using Angular routes.
-How can digest cycle time be decreased?
-Digest cycle time can be decreased by decreasing the number of watchers. To do this, you can:
-
 Use web worker
 Work in batches
 Cache DOM
@@ -132,4 +52,5 @@ Use one-time Angular binding
 Conclusion
 
 
-Andgular new features:
+Angular new features: 2 and now:?
+
