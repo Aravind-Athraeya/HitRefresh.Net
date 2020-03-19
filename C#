@@ -38,3 +38,5 @@ Tuples
 **Concurrency VS parallelism**
 **Parallel programming**
 https://stackoverflow.com/questions/13988334/difference-between-destructor-dispose-and-finalize-method
+What is the difference between the Parallel For loop and standard C# for loop?
+PLINQ, TPL, Thread, Task
