@@ -20,3 +20,5 @@ ACID - CURD
 https://codingsight.com/similarities-and-differences-among-rank-dense_rank-and-row_number-functions/
 https://stackify.com/performance-tuning-in-sql-server-find-slow-queries/
 Delete VS truncate
+Datareader VS adaptar
+executescalar vs execure reader VS execute non query
