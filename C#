@@ -40,3 +40,4 @@ Tuples
 https://stackoverflow.com/questions/13988334/difference-between-destructor-dispose-and-finalize-method
 What is the difference between the Parallel For loop and standard C# for loop?
 PLINQ, TPL, Thread, Task
+https://www.c-sharpcorner.com/UploadFile/b08196/idisposable-interface-in-C-Sharp/
