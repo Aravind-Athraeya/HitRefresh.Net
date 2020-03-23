@@ -44,3 +44,4 @@ https://www.c-sharpcorner.com/UploadFile/b08196/idisposable-interface-in-C-Sharp
 Using statement and dispose function
 Size of threadpool - ThreadPool.SetMaxThreads[https://www.infoworld.com/article/3008250/understanding-thread-pools-in-c.html]
 https://www.c-sharpcorner.com/article/the-using-statement-in-C-Sharp/
+A mutex is used to ensure exclusive access to a shared resource across processes
