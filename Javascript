@@ -35,3 +35,4 @@ parseInt("10 years");   // returns 10
 parseInt("years 10");   // returns NaN 
 The Difference Between Arrays and Objects - Named indexes VS Numbered indexes
 shift VS pop 
+Array - Push, Pop,shift(removed from front), Slice(make new array from given element. Makes a copy does not remove), Splice(remove from array)
