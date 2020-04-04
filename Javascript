@@ -26,4 +26,5 @@ var z = new String("John");
 // (x === y) is false because x and y have different types (string and object)
 // (z == y) is false because x and y are different objects
 // (z === y) is false because x and y are different objects
-indexOf() VS search()
+indexOf() VS search() -can give second param for index in indexof
+Substring VS slice - Subsstring cant take negative values
