@@ -38,3 +38,5 @@ shift VS pop
 Array - Push, Pop,shift(removed from front), Slice(make new array from given element. Makes a copy does not remove), Splice(remove from array)
 Array.map/ reduce /filter /every /some
 Switch cases use strict comparison (===).The values must be of the same type to match.
+Number("99 88")   // returns NaN
+PasseInt("99 88")   // returns 99
