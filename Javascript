@@ -15,3 +15,4 @@ JavaScript evaluates expressions from left to right. so 16 + 4 + "Volvo"; will p
 You can use quotes inside a string, as long as they don't match the quotes surrounding the string:
 Unfortunately, in JavaScript, the data type of null is an object.You can consider it a bug in JavaScript that typeof null is an object. It should be null.
 Difference Between Undefined and Null
+If you access a method without the () parentheses, it will return the function definition
