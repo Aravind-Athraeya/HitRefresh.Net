@@ -16,4 +16,13 @@ You can use quotes inside a string, as long as they don't match the quotes surro
 Unfortunately, in JavaScript, the data type of null is an object.You can consider it a bug in JavaScript that typeof null is an object. It should be null.
 Difference Between Undefined and Null
 If you access a method without the () parentheses, it will return the function definition
-=== VS == - Type and value vs value only
+=== VS == 
+
+var x = "John";             
+var y = new String("John");
+var z = new String("John");
+
+// (x == y) is true because x and y have equal values
+// (x === y) is false because x and y have different types (string and object)
+// (z == y) is false because x and y are different objects
+// (z === y) is false because x and y are different objects
