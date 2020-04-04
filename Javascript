@@ -33,3 +33,4 @@ Infinity, NaN = type number -Any operation with Nan returns Nan
 parseInt("10 20 30");   // returns 10
 parseInt("10 years");   // returns 10
 parseInt("years 10");   // returns NaN 
+The Difference Between Arrays and Objects - Named indexes VS Numbered indexes
