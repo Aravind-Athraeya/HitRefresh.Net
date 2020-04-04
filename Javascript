@@ -10,3 +10,4 @@ Boolean + Number -> Addition
 Number + String -> Concatenation
 String + Boolean -> Concatenation
 String + String -> Concatenation
+If you re-declare a JavaScript variable, it will not lose its existing value.
