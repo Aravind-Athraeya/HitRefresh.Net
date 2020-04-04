@@ -12,3 +12,4 @@ String + Boolean -> Concatenation
 String + String -> Concatenation
 If you re-declare a JavaScript variable, it will not lose its existing value.
 JavaScript evaluates expressions from left to right. so 16 + 4 + "Volvo"; will produce 20Volvo while  "Volvo" + 16 + 4 will produce Volvo164
+You can use quotes inside a string, as long as they don't match the quotes surrounding the string:
