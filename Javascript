@@ -28,3 +28,4 @@ var z = new String("John");
 // (z === y) is false because x and y are different objects
 indexOf() VS search()
 Substring VS slice - 
+JavaScript will try to convert strings to numbers in all numeric operations
