@@ -29,4 +29,7 @@ var z = new String("John");
 indexOf() VS search()
 Substring VS slice - 
 JavaScript will try to convert strings to numbers in all numeric operations
-Infinity, NaN = type number
+Infinity, NaN = type number -Any operation with Nan returns Nan
+parseInt("10 20 30");   // returns 10
+parseInt("10 years");   // returns 10
+parseInt("years 10");   // returns NaN 
