@@ -40,3 +40,4 @@ Array.map/ reduce /filter /every /some
 Switch cases use strict comparison (===).The values must be of the same type to match.
 Number("99 88")   // returns NaN
 PasseInt("99 88")   // returns 99
+If you assign a value to a variable that has not been declared, it will automatically become a GLOBAL variable.
