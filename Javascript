@@ -3,7 +3,7 @@ XMLHttpRequest
 prototypal inheritance
 prototype in javascript
 JS types combos:
-
+https://www.w3schools.com/js/js_output.asp
 Number + Number -> Addition
 Boolean + Number -> Addition
 Boolean + Number -> Addition
