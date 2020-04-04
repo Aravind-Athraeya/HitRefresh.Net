@@ -43,3 +43,4 @@ PasseInt("99 88")   // returns 99
 If you assign a value to a variable that has not been declared, it will automatically become a GLOBAL variable.
 Hoisting is JavaScript's default behavior of moving all declarations to the top of the current scope
 let/const/ block scope
+var vs let difference in javascript
