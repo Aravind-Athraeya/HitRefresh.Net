@@ -2,6 +2,7 @@ window.location /window.setInterval
 XMLHttpRequest
 prototypal inheritance
 prototype in javascript
+https://medium.com/backticks-tildes/javascript-prototypes-ee46810e4866
 JS types combos:
 https://www.w3schools.com/js/js_output.asp
 Number + Number -> Addition
