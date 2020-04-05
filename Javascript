@@ -45,4 +45,5 @@ Hoisting is JavaScript's default behavior of moving all declarations to the top 
 let/const/ block scope
 var vs let difference in javascript
 The super() method refers to the parent class.
-avaScript behavior to close a statement automatically at the end of a line.
+JavaScript behavior to close a statement automatically at the end of a line.
+JavaScript function closures
