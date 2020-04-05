@@ -23,4 +23,4 @@ Delete VS truncate
 Datareader VS adaptar
 executescalar vs execure reader VS execute non query
 Group by VS having
-Union VS unioN ALL/ jOIN VS UNION
+Union VS unioN ALL/ jOIN VS UNION - joins combine data into new columns,Unions combine data into new rows
