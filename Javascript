@@ -46,4 +46,4 @@ let/const/ block scope
 var vs let difference in javascript
 The super() method refers to the parent class.
 JavaScript behavior to close a statement automatically at the end of a line.
-JavaScript function closures
+JavaScript function closures - https://www.youtube.com/watch?v=FYrtnS3X_Lw
