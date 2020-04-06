@@ -34,16 +34,8 @@ provider = (new fn()).$get()
 Common ways of communication between modules-
 events/ services /By assigning models on $rootScope / Directly between controllers using ControllerAs and other forms of inheritance
 /Directly between controllers using $parent, $$childHead, $$nextSibling
-20 Frequently Asked AngularJS Interview Questions and Answers
-By Srihari Sasikumar
-Last updated on Aug 8, 201989725
-20 Frequently Asked AngularJS Interview Questions and Answers
-AngularJS, the self-proclaimed “superheroic JavaScript MVW framework,” has been around since 2009, and it remains one of the most popular web development frameworks the world over. According to Indeed.com, the demand for developers has been on the rise in recent months, and this trend is expected to continue. 
 
-AngularJS can be a demanding technology, prompting a salary scope of anything from $60/hour for a freelance developer to $70,000/year for a Front End Developer/Engineer in an organization. Since this certification is a requirement for a large percentage of web-developer job postings, you can assume that there is never a lack of qualified candidates. 
-
-In every interview, you will have to contend with fierce competition. To perform well and get your dream job, you have to prepare in advance. To help you, we’ve outlined 20 frequently asked AngularJS interview questions and the kind of answers your interviewer is likely looking for. 
-
+increase:
 Use web worker
 Work in batches
 Cache DOM
