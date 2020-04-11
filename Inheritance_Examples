@@ -77,10 +77,15 @@ namespace ConsoleApplication6
             Base b = new Base();
             b.Function1(); // Base
             Derived d = new Derived();
-            d.Function1(); // derived
+            d.Function1(); // derived -
+            //even if derived has a override func, if the type is derived and you have two functions with similar signature
+            //one with override and other without.
+            //It wil call the func without override if the type is derived.
+            
             Base bd = new Derived();
             bd.Function1(); //Calls Base
 
+            
             Base bdd = new Derived();
             bdd.Function2(); //Calls Derived
 
