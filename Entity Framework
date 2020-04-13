@@ -28,3 +28,5 @@ https://docs.microsoft.com/en-us/ef/ef6/modeling/code-first/workflows/new-databa
 https://www.dotnettricks.com/learn/entityframework/entity-framework-interview-questions
 Inheritance in Entity framework -https://www.dotnettricks.com/learn/entityframework/understanding-inheritance-in-entity-framework
 **database context close wait time & deferred execution**
+** Entity performance slow? Why?
+**
