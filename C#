@@ -57,3 +57,5 @@ Shadow VS deep cloning
 *How to prevent deadlocks? - Mutex/ Semaphones & Monitor. Tryennter to make thread time out and relase a resource*
 Mutex - Exclusive lock
 Semaphore - Control concurrent threads - non exclsive lock
+**C# extension methods**
+**Generics constraint to allow only numerics*
