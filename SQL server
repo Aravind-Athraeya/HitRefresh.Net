@@ -2,7 +2,7 @@ CURD
 Atomicity
  isolation level for the transaction -https://www.itprotoday.com/sql-server/transaction-isolation-levels
 clustered and non clustered index
-sub-query 
+sub-query & CTE
 sql injection prevention
 IQueryable VS Ienumerable - LINQ related
 difference between isnull and coalesce sql
