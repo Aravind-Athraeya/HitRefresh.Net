@@ -1,6 +1,6 @@
 CURD
 Atomicity
- isolation level for the transaction
+ isolation level for the transaction -https://www.itprotoday.com/sql-server/transaction-isolation-levels
 clustered and non clustered index
 sub-query 
 sql injection prevention
