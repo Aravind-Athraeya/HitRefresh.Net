@@ -3,6 +3,7 @@ Atomicity
  isolation level for the transaction -https://www.itprotoday.com/sql-server/transaction-isolation-levels
 clustered and non clustered index
 sub-query & CTE
+@@Identity, IDENT_Current() and ScopeIdentity()
 View VS CTE
 https://www.hacksplaining.com/prevention/sql-injection
 sql injection prevention
