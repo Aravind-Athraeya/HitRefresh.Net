@@ -4,6 +4,7 @@ Atomicity
 clustered and non clustered index
 sub-query & CTE
 View VS CTE
+https://www.hacksplaining.com/prevention/sql-injection
 sql injection prevention
 IQueryable VS Ienumerable - LINQ related
 difference between isnull and coalesce sql
