@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <Script>
+     var person = [{Name: "Matt", Age: 32}, {Name: "Leo", Age: 42}, {Name: "Neo", Age: 27}];
+
+   function getFunc() {
+     var newParray = person.filter(person => person.Age > 40)
+     fLen = newParray.length;
+     text = "<ul>";
+      for (i = 0; i < fLen; i++) {
+  text += "<li>" + person[i].Name + "</li>";
+}
+text += "</ul>";
+     document.getElementById("test").innerHTML = text;
+     
+     
+     
+}
+      
+    
+    </Script>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>JS Bin</title>
+</head>
+<body>
+ <button onclick=getFunc()>Get</button>
+  <span id='test'></span>
+</body>
+</html>
