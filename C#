@@ -63,3 +63,4 @@ Compare “string” and “StringBuilder” in C#
  What is the difference between the “throw” and “throw ex” in .NET?
   What is the difference between “dispose” and “finalize” methods in C#
 Constructor Chaining in C#
+C# indexer
