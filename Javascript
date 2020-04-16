@@ -51,3 +51,4 @@ JavaScript function closures - https://www.youtube.com/watch?v=FYrtnS3X_Lw
 https://youtu.be/wfMtDGfHWpA - INheritance VS Composition
 https://www.digitalocean.com/community/tutorials/understanding-prototypes-and-inheritance-in-javascript
 **arrrow function and promise**
+https://web.dev/promises/
