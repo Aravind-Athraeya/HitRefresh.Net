@@ -24,6 +24,7 @@ https://codingsight.com/similarities-and-differences-among-rank-dense_rank-and-r
 https://stackify.com/performance-tuning-in-sql-server-find-slow-queries/
 Delete VS truncate
 Datareader VS adaptar
+Cross outer apply VS join
 executescalar vs execure reader VS execute non query
 Group by VS having
 cursor SQL
