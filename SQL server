@@ -4,7 +4,7 @@ Atomicity
 clustered and non clustered index
 sub-query & CTE
 @@Identity, IDENT_Current() and ScopeIdentity()
-View VS CTE
+View VS CTE(REcursion)
 https://www.hacksplaining.com/prevention/sql-injection
 sql injection prevention
 IQueryable VS Ienumerable - LINQ related
@@ -31,3 +31,4 @@ cursor SQL
 Union VS unioN ALL/ jOIN VS UNION - dISTINCE , DUPLICATES IN All/joins combine data into new columns,Unions combine data into new rows
 https://seanmcateer.wordpress.com/2015/10/20/mdf-ndf-ldf-temp-db-files-and-filegroups/
 maxdop - SQL server feature -https://www.archerpoint.com/blog/Posts/optimizing-sql-server-through-parallelism-feature
+https://www.youtube.com/watch?v=kVogo0AbatM
