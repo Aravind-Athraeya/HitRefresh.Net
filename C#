@@ -65,4 +65,4 @@ Compare “string” and “StringBuilder” in C#
 Constructor Chaining in C#
 C# indexer
 Optimsitic locking VS pessimistic locking?
-Array of different data types?
+**Array of different data types? -- Object array**
