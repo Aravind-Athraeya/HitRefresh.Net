@@ -64,3 +64,5 @@ Compare “string” and “StringBuilder” in C#
   What is the difference between “dispose” and “finalize” methods in C#
 Constructor Chaining in C#
 C# indexer
+Optimsitic locking VS pessimistic locking?
+Array of different data types?
