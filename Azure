@@ -4,4 +4,4 @@ Platform as service - Platform provided || less admin work
 Software as service - cloud based apps
 Azure Resource Manager
 Azure Network srevices - VNet, SubNet, Express Route, Site-to-site, Point-to-site,NSG
-Azure Compute services
+Azure Compute services - Fault domains
