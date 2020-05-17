@@ -2,4 +2,6 @@
 Infrastructure as service - Complete control || design time portability
 Platform as service - Platform provided || less admin work
 Software as service - cloud based apps
-ARM - 
+Azure Resource Manager
+Azure Network srevices - VNet, SubNet, Express Route, Site-to-site, Point-to-site
+Azure Compute services
