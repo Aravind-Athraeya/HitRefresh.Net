@@ -66,3 +66,5 @@ Constructor Chaining in C#
 C# indexer
 Optimsitic locking VS pessimistic locking?
 **Array of different data types? -- Object array**
+Autofac - .NET  dependency inejction container
+Task Vs Thread - Sleep  - Super position
