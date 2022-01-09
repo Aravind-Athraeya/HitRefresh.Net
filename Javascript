@@ -1,7 +1,7 @@
 window.location /window.setInterval
 XMLHttpRequest
 prototypal inheritance
-prototype in javascript
+prototype in javascript *The JavaScript prototype property allows you to add new properties to object constructor -https://www.w3schools.com/js/js_object_prototypes.asp*
 https://medium.com/backticks-tildes/javascript-prototypes-ee46810e4866
 JS types combos:
 https://www.w3schools.com/js/js_output.asp
