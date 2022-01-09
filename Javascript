@@ -30,17 +30,17 @@ Primitives passed to eval are treated as source code; String objects are treated
 // (x === y) is false because x and y have different types (string and object)
 // (z == y) is false because x and y are different objects
 // (z === y) is false because x and y are different objects
-indexOf() VS search()
-Substring VS slice - 
+indexOf() VS search()--  search + start length VS search + regex
+Substring VS slice - Slice will cut and negative values with trim from oher side of string vs if lenth is grater it will be swapper(begin and end indexs)
 JavaScript will try to convert strings to numbers in all numeric operations
 Infinity, NaN = type number -Any operation with Nan returns Nan
 parseInt("10 20 30");   // returns 10
 parseInt("10 years");   // returns 10
 parseInt("years 10");   // returns NaN 
-The Difference Between Arrays and Objects - Named indexes VS Numbered indexes
-shift VS pop 
+The Difference Between Arrays and Objects -Ans: Named indexes VS Numbered indexes
+shift VS pop -- Shift front remove and returns the removed item while pop removes the last item
 Array - Push, Pop,shift(removed from front), Slice(make new array from given element. Makes a copy does not remove), Splice(remove from array)
-Array.map/ reduce /filter /every /some
+Array.map/ reduce /filter /every /some --https://www.freecodecamp.org/news/javascript-map-reduce-and-filter-explained-with-examples/
 Switch cases use strict comparison (===).The values must be of the same type to match.
 Number("99 88")   // returns NaN
 PasseInt("99 88")   // returns 99
