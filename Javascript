@@ -16,7 +16,7 @@ Hoisting: Its declared but not initialized -- https://developer.mozilla.org/en-U
 JavaScript evaluates expressions from left to right. so 16 + 4 + "Volvo"; will produce 20Volvo while  "Volvo" + 16 + 4 will produce Volvo164
 You can use quotes inside a string, as long as they don't match the quotes surrounding the string:
 Unfortunately, in JavaScript, the data type of null is an object.You can consider it a bug in JavaScript that typeof null is an object. It should be null.
-Difference Between Undefined and Null
+Difference Between Undefined and Null --https://flexiple.com/undefined-vs-null-javascript/
 If you access a method without the () parentheses, it will return the function definition
 === VS == 
 
