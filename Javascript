@@ -23,7 +23,9 @@ If you access a method without the () parentheses, it will return the function d
 var x = "John";             
 var y = new String("John");
 var z = new String("John");
-
+String primitives vs string objects  --https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String
+--String primitives and String objects also give different results when using eval().
+Primitives passed to eval are treated as source code; String objects are treated as all other objects are, by returning the object.
 // (x == y) is true because x and y have equal values
 // (x === y) is false because x and y have different types (string and object)
 // (z == y) is false because x and y are different objects
