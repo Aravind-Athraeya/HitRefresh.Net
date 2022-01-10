@@ -11,3 +11,5 @@ he Dependency Injection pattern uses a builder object to initialize objects and 
 https://www.dotnettricks.com/learn/dependencyinjection/implementation-of-dependency-injection-pattern-in-csharp
 
 Inversion of Control (IoC) means to create instances of dependencies first and latter instance of a class (optionally injecting them through constructor), instead of creating an instance of the class first and then the class instance creating instances of dependencies.
+Observer pattern:
+https://www.tutorialspoint.com/nodejs/nodejs_event_loop.htm
