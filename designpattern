@@ -12,4 +12,6 @@ https://www.dotnettricks.com/learn/dependencyinjection/implementation-of-depende
 
 Inversion of Control (IoC) means to create instances of dependencies first and latter instance of a class (optionally injecting them through constructor), instead of creating an instance of the class first and then the class instance creating instances of dependencies.
 Observer pattern:
+ one-to-many dependency between objects so that when one object changes state, all its dependents are notified and updated automatically.
+ Node.js works on observers pattern and event driven
 https://www.tutorialspoint.com/nodejs/nodejs_event_loop.htm
