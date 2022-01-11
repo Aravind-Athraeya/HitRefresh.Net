@@ -33,4 +33,12 @@ https://seanmcateer.wordpress.com/2015/10/20/mdf-ndf-ldf-temp-db-files-and-fileg
 maxdop - SQL server feature -https://www.archerpoint.com/blog/Posts/optimizing-sql-server-through-parallelism-feature
 https://www.youtube.com/watch?v=kVogo0AbatM
 https://www.youtube.com/watch?v=fvPddKyHxpQ - nth highest salary
+
+Session IDs stored in
+Percentage in SQL
+Charindex in SQL
+View state tampered
+Invoke triggers
+
+Nvarchjar VS varchar
 https://www.youtube.com/watch?v=KwEjkpFltjc - Over clause in sQL
