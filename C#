@@ -27,6 +27,7 @@ Class VS structure
 Default access specifier for a class type is internal. Default access for the members is private.
 Delegates and Events.
 Yield, tuples in C#
+https://www.youtube.com/watch?v=DZUXDSEuqek -- Volatile
 Array VS AeeayList
 Showing results for covariance .net
 Search instead for coviriance .net
