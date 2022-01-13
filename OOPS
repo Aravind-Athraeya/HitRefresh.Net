@@ -4,3 +4,5 @@ interface vs abstract class c#
 partial classes & Methods
 read only  VS const
 https://en.wikipedia.org/wiki/SOLID
+
+**Two inferaces being implmented by a class, both interface have some fn() signarure. Class implments fn() only one time , will it cause compiler error?**
