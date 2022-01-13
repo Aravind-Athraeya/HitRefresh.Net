@@ -51,4 +51,5 @@ Appdomain VS Apppool
 *User Control VS custom control*
 *Can you use the user control built in C# and use it in vb.net*
 *Repeater control in asp.,net*
+*What happens dutring pre render, pre init, postback*
 
