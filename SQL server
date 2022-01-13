@@ -34,11 +34,18 @@ maxdop - SQL server feature -https://www.archerpoint.com/blog/Posts/optimizing-s
 https://www.youtube.com/watch?v=kVogo0AbatM
 https://www.youtube.com/watch?v=fvPddKyHxpQ - nth highest salary
 
+**Parent SP Child SP - How will you pass the values** - Temp table
+*Global Temp table, Local Temp table, @,##,#*
+
 Session IDs stored in
 Percentage in SQL
 Charindex in SQL
 View state tampered
 Invoke triggers
-
-Nvarchjar VS varchar
+**Unique Key VS primary Key VS canditate key- Primary is not null, both are unique but only one primary key per table while candidate key can be more than one**
+*Can we have DML operation in a function* or *can you have a transaction within a fucntion?*
+ - No, function cannot change the state of the db
+ *Can you return other types other than a tbale in a function?*?
+ 
+ Nvarchjar VS varchar
 https://www.youtube.com/watch?v=KwEjkpFltjc - Over clause in sQL
