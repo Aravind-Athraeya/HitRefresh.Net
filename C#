@@ -33,6 +33,7 @@ Array VS AeeayList
 Enables you to use a more derived type than originally specified.
 - contravariance - Enables you to use a more generic (less derived) type than originally specified.
 Covariance and Contravariance - Assignment Compatability [https://www.youtube.com/watch?v=jtzPBYBub5Y]
+*break statement after return statement?* what happens?
 https://www.youtube.com/watch?v=jd3yUjGc9M0
 http://tomasp.net/blog/variance-explained.aspx/
 Tuples
